@@ -4,4 +4,5 @@
 
 # Я осваиваю GIT
 
-![foto](C:\Users\Leonid\Desktop\wr-1280.webp)
+![foto](C:\Users\Leonid\Desktop\pIMG_2399.jpg)
+
