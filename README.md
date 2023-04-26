@@ -4,5 +4,4 @@
 
 # Я осваиваю GIT
 
-![foto](C:\Users\Leonid\Desktop\pIMG_2399.jpg)
-
+![foto](../pIMG_2399.jpg)
